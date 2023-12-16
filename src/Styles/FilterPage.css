@@ -1,0 +1,165 @@
+#vimvarbackground{
+    position: absolute;
+    top: 0%;
+    left: 5%;
+    right: 5%;
+    width: 90%;
+    height: 100%;
+}
+.varfilter{
+    position: absolute;
+    top:3%;
+    left:47%;
+    text-align: center;
+    font-family: kurale;
+}
+.varlook{
+    position: absolute;
+    top:15%;
+    left:15%;
+    text-align: center;
+    font-family: kurale;
+    font-size: x-large;
+}
+#varbuy{
+    position: absolute;
+    top: 28%;
+    left: 25%;
+    font-family: Lato;
+    font-size: large;
+    background-color: rgb(185, 223, 238);
+    border-color: aliceblue;
+    cursor: pointer;
+}
+#varsell{
+    position: absolute;
+    top: 28%;
+    left: 35%;
+    font-family: Lato;
+    font-size: large;
+    background-color: rgb(185, 223, 238);
+    border-color: aliceblue;
+    cursor: pointer;
+}
+.varpro{
+    position: absolute;
+    top:35%;
+    left:15%;
+    text-align: center;
+    font-family: kurale;
+    font-size: x-large;
+}
+#varp1{
+    position: absolute;
+    top: 48%;
+    left: 25%;
+    font-family: Lato;
+    font-size: large;
+    background-color: rgb(185, 223, 238);
+    border-color: aliceblue;
+}
+#varp2{
+    position: absolute;
+    top: 48%;
+    left: 40%;
+    font-family: Lato;
+    font-size: large;
+    background-color: rgb(185, 223, 238);
+    border-color: aliceblue;
+}
+#varp3{
+    position: absolute;
+    top: 48%;
+    left: 55%;
+    font-family: Lato;
+    font-size: large;
+    background-color: rgb(185, 223, 238);
+    border-color: aliceblue;
+}
+#varp4{
+    position: absolute;
+    top: 48%;
+    left: 70%;
+    font-family: Lato;
+    font-size: large;
+    background-color: rgb(185, 223, 238);
+    border-color: aliceblue;
+}
+.varPrice{
+    position: absolute;
+    top:55%;
+    left:15%;
+    text-align: center;
+    font-family: kurale;
+    font-size: x-large;
+}
+#varpri{
+    position: absolute;
+    top: 68%;
+    left: 25%;
+    right: 50%;
+    background-color: rgb(185, 223, 238);
+}
+.varBedRoom{
+    position: absolute;
+    top:75%;
+    left:15%;
+    text-align: center;
+    font-family: kurale;
+    font-size: x-large;
+}
+#varbe1{
+    position: absolute;
+    top: 88%;
+    left: 25%;
+    font-family: Lato;
+    font-size: large;
+    background-color: rgb(185, 223, 238);
+    border-color: aliceblue;
+}
+#varbe2{
+    position: absolute;
+    top: 88%;
+    left: 40%;
+    font-family: Lato;
+    font-size: large;
+    background-color: rgb(185, 223, 238);
+    border-color: aliceblue;
+}
+#varbe3{
+    position: absolute;
+    top: 88%;
+    left: 55%;
+    font-family: Lato;
+    font-size: large;
+    background-color: rgb(185, 223, 238);
+    border-color: aliceblue;
+}
+#varbe4{
+    position: absolute;
+    top: 88%;
+    left: 70%;
+    font-family: Lato;
+    font-size: large;
+    background-color: rgb(185, 223, 238);
+    border-color: aliceblue;
+}
+#varreset{
+    position: absolute;
+    top: 6%;
+    left: 15%;
+    font-size: large;
+    font-family: Lato;
+    background-color: rgb(185, 223, 238);
+    border-color: aliceblue;
+    cursor: pointer;
+}
+.varclose-button{
+    position: absolute;
+    top: 6%;
+    right: 15%;
+    font-size: 100%;
+    background-color: rgb(185, 223, 238);
+    border-color: aliceblue;
+    cursor: pointer;
+}
