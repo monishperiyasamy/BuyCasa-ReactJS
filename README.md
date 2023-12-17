@@ -46,6 +46,9 @@ Code Editor: We recommend using Visual Studio Code for a seamless development ex
 Start the Development Server: npm start  
 This will launch the project in your default web browser. If it doesn't open automatically, navigate to http://localhost:3000 in your browser.
 
+***Hosting on Netlify***  
+The project is hosted on Netlify. You can access it here https://monishabuycasa.netlify.app
+
 ***Troubleshooting***  
 Issue: If you encounter an error related to missing dependencies, try running:
 npm install
