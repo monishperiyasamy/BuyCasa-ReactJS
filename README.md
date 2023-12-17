@@ -43,8 +43,7 @@ Code Editor: We recommend using Visual Studio Code for a seamless development ex
 
 
 ***Running the Project***  
-Start the Development Server:  
-npm start
+Start the Development Server: npm start  
 This will launch the project in your default web browser. If it doesn't open automatically, navigate to http://localhost:3000 in your browser.
 
 ***Troubleshooting***  
