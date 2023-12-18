@@ -33,7 +33,7 @@ Before you begin, make sure you have the following installed on your machine:
 
 
 2.**Navigate to the Project Directory:**
-cd BuyCasa-ReactJS
+cd Buy Casa
 
 3.**Install Dependencies:**
 npm install
